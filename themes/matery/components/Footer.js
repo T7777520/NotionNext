@@ -14,8 +14,8 @@ import { siteConfig } from '@/lib/config'
 //     return currentYear
 //   })()
 
-  return (
-     <footer>
+  // return (
+  //    <footer>
       // {/* <DarkModeButton/> */}
       // <i className='fas fa-copyright' /> {`${copyrightDate}`}{' '}
       // <span>
@@ -59,7 +59,7 @@ import { siteConfig } from '@/lib/config'
       //   // </span>
       // </span>
       // <br />
-    </footer>
+    // </footer>
   )
 }
 
